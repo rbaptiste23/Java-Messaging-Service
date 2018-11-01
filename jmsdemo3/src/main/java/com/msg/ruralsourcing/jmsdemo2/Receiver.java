@@ -12,5 +12,7 @@ public class Receiver {
 	public void receiveMessage(String message) {
 		System.out.println("Order received is: " + message );
 		
+		// Receiver class 
+		
 	}
 }
